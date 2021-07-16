@@ -1,0 +1,8 @@
+6
+label main
+def a "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB"
+def b ""
+add b a b
+print a
+ret
+N
